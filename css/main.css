@@ -5,10 +5,10 @@
 
 .dark {
     background-color: #222;
-    color: #FFF; 
+    color: #FFF;
 }
 
-.status {
+.status{
     font: 3em Impact, Helvetica, sans-serif;
     position: absolute;
     bottom: 0;
@@ -64,4 +64,3 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6d6d6', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
     box-shadow: -1px -4px 6px rgba(100,100,100,0.7);
 }
-
